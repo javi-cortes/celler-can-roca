@@ -48,7 +48,7 @@ def start_booking(name: str, last_name: str, email: str, phone: str, people: int
         "user_phone": phone,
     }
 
-    for day in rrule(DAILY, dtstart=start_dt, until=end_dt, byweekday=[3, 4, 5]):
+    for day in rrule(DAILY, dtstart=start_dt, until=end_dt, byweekday=[3, 4, 5]):  # noqa 3 = Thursday, 4 = Friday, 5 = Saturday
         print(f'Adding to waiting list on {day.strftime("%d-%m-%Y")}')
         booking_list_payload["dia"] = day.strftime("%d-%m-%Y")
         r = requests.post(BOOKING_LIST_URL, booking_list_payload)
