@@ -9,7 +9,7 @@ This script automatically adds your reservation to the waiting list of the whole
 booking you'll be notified by email.
 
 So far is booking for Thursday - Friday - Saturday (Lunch / Dinner)
-(You can change this at [this line](https://github.com/javi-cortes/celler-can-roca/blob/a127515d9420b8a2050b498c4cc809135a4d4905/can_roca.py#L51)
+(You can change this at [this line](https://github.com/javi-cortes/celler-can-roca/blob/a127515d9420b8a2050b498c4cc809135a4d4905/can_roca.py#L51))
 
 <!-- GETTING STARTED -->
 ## Getting Started
