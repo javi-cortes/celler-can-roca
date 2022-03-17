@@ -1,6 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-`Celler can roca` is an script that automates the booking to the waiting list of the restaurant.
+`Celler can roca` is one of the best restaurant in the world.
+
+This script automates the booking to the waiting list of the restaurant.
 
 Can Roca usually has the full year booked up and by the end of each month they release the following month
 from the next year. So its kinda difficult to get a reservation.
