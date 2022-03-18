@@ -10,6 +10,12 @@ from the next year. So its kinda difficult to get a reservation.
 This script automatically adds your reservation to the waiting list of the whole year and whenever someone cancels their
 booking you'll be notified by email.
 
+The software that can roca uses for reservation is the same for Diverxo and other famous restaurants.
+This script allows you to select between can roca and diverxo but feel free to change/add more here
+
+
+List of all the restaurants: https://www.covermanager.com/software-para/restaurantes
+
 So far is booking for Thursday - Friday - Saturday (Lunch / Dinner)
 (You can change this at [this line](https://github.com/javi-cortes/celler-can-roca/blob/a127515d9420b8a2050b498c4cc809135a4d4905/can_roca.py#L51))
 
