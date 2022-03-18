@@ -11,7 +11,7 @@ This script automatically adds your reservation to the waiting list of the whole
 booking you'll be notified by email.
 
 The software that can roca uses for reservation is the same for Diverxo and other famous restaurants.
-This script allows you to select between can roca and diverxo but feel free to change/add more here
+This script allows you to select between can roca and diverxo but feel free to change/add more [here](https://github.com/javi-cortes/celler-can-roca/blob/f4f114b0de2b692704ccb3e5c92342cd70b475b0/can_roca.py#L36)
 
 
 List of all the restaurants: https://www.covermanager.com/software-para/restaurantes
